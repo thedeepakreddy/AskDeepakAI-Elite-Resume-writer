@@ -1,0 +1,6 @@
+{
+  "name": "AskDeepakAI",
+  "description": "An elite AI-powered resume and cover letter builder that matches CVs to job descriptions, generating beautifully styled ATS-ready PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
